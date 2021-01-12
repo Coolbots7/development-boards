@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name DX07S016JA1R1500)(type KiCad)(uri ../lib/DX07S016JA1R1500)(options "")(descr ""))
+  (lib (name development-boards)(type KiCad)(uri "../docs/repo qr code")(options "")(descr ""))
+)
